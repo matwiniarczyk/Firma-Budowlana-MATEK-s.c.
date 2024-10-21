@@ -1,0 +1,42 @@
+# Ignorowanie plików konfiguracyjnych i systemowych
+.bash_history
+.bash_logout
+.bashrc
+.cache/
+.config/
+.git-credentials
+.gitconfig
+.gnupg/
+.ipython/
+.java/
+.jupyter/
+.lesshst
+.local/
+.npm/
+.nvm/
+.pgadmin/
+.pki/
+.profile
+.psql_history
+.ssh/
+.thunderbird/
+.viminfo
+.wget-hsts
+snap/
+
+# Ignorowanie folderu node_modules
+node_modules/
+
+# Ignorowanie plików desktopu i pobranych
+Desktop/
+Documents/
+Downloads/
+Pictures/
+
+# Ignorowanie plików w Projekcie
+PROJEKT SWISHAPP
+
+# Ignorowanie innych plików
+Untitled Document 1
+"\305\232ci\304\205ga I"
+"\305\233ci\304\205ga II"
