@@ -23,6 +23,12 @@
 .viminfo
 .wget-hsts
 snap/
+.DS_Store
+Thumbs.db
+
+# Ignorowanie plików IDE
+.idea/
+.vscode/
 
 # Ignorowanie folderu node_modules
 node_modules/
@@ -33,10 +39,15 @@ Documents/
 Downloads/
 Pictures/
 
-# Ignorowanie plików w Projekcie
+# Ignorowanie plików w Projekciegit
 PROJEKT SWISHAPP
 
 # Ignorowanie innych plików
 Untitled Document 1
 "\305\232ci\304\205ga I"
 "\305\233ci\304\205ga II"
+
+# Ignorowanie buildów
+build/
+dist/
+venv/
