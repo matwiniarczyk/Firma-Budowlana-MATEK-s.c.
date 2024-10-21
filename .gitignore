@@ -25,6 +25,8 @@
 snap/
 .DS_Store
 Thumbs.db
+db.sqlite3
+identifier.sqlite
 
 # Ignorowanie plików IDE
 .idea/
